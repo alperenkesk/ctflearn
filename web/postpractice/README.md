@@ -4,13 +4,10 @@
 Link: https://ctflearn.com/challenge/114
 
 ### Soru İçerik
-
-![Screenshot](postpractice/postpractice1.png)
+![postpractice1](https://github.com/alperenkesk/ctflearn/blob/master/web/postpractice/postpractice1.png)
 
 ### Kaynak Kodu
-
-![Screenshot](postpractice/postpractice2.png)
+![postpractice2](https://github.com/alperenkesk/ctflearn/blob/master/web/postpractice/postpractice2.png)
 
 ### postpractice.py çıktısı
-
-![Screenshot](postpractice/postpractice3.png)
+![postpractice3](https://github.com/alperenkesk/ctflearn/blob/master/web/postpractice/postpractice3.png)
